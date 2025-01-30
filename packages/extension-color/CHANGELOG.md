@@ -1,5 +1,12 @@
 # Change Log
 
+## 2.11.4-pre.0
+
+### Patch Changes
+
+- @tiptap/core@2.11.4-pre.0
+- @tiptap/extension-text-style@2.11.4-pre.0
+
 ## 2.11.3
 
 ## 2.11.2

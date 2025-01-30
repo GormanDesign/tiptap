@@ -1,5 +1,13 @@
 # Change Log
 
+## 2.11.4-pre.0
+
+### Patch Changes
+
+- bce96a6: Added support for numbers in email addresses.
+  - @tiptap/core@2.11.4-pre.0
+  - @tiptap/pm@2.11.4-pre.0
+
 ## 2.11.3
 
 ## 2.11.2
